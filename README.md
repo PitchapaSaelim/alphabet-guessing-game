@@ -26,7 +26,7 @@ The alphabet guessing game web-application that using MongoDB.
 ## Getting Started
 > Install [Docker](https://docs.docker.com/desktop/) and [Docker Compose](https://docs.docker.com/compose/install/)
 
-- Clone the alphabet guessing game to your machine. [*See how to clone the web-application.*]()
+- Clone the alphabet guessing game to your machine. [*See how to clone the web-application.*](https://github.com/PitchapaSaelim/alphabet-guessing-game#how-to-clone-the-alphabet-guessing-game)
 - Access to a command-line/terminal window.
     * Change directory to the directory that contain `alphabet-guessing-game` folder.
         ```
