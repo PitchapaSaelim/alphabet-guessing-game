@@ -43,7 +43,7 @@ The alphabet guessing game web-application that using MongoDB.
 
 - Follows the link  http://localhost/   
 
-- Follow this command when you want to close the web-application.
+- Follows this command when you want to close the web-application.
     ```
     cmd> docker-compose down -v
     ```     
