@@ -1,4 +1,6 @@
 # alphabet-guessing-game
+*by Pitchapa Sae-lim*
+
 The alphabet guessing game web-application that using MongoDB.
 
 ## How to clone the alphabet guessing game
