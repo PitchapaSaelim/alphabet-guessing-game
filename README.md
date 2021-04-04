@@ -53,3 +53,4 @@ The alphabet guessing game web-application that using MongoDB.
 2. The web-application will let you guess the correct answer. You can choose A or B or C or D to guess the character.
 3. When you guess wrongly, the number of failures will increase. But when you guessed it right, the character X will appear instead of the correct one. 
 4. When you answer them all correctly, the web-application will shows you won and tells you the number of failures.
+5. Press `Play Again?` button to restart the game.
